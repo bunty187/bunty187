@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [World Cricket Analysis](http://13.232.203.229:8501/)
 
-- 🌱 I’m currently learning Data Enge **Data Engineering**
+- 🌱 I’m currently learning **Data Engineering**
 
 - 📫 How to reach me **buntyk3623@gmail.com**
 
